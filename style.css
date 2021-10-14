@@ -1,0 +1,80 @@
+.header {
+    background-color: #FFFBF0;
+}
+
+.orange-bg{
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.navbar-brand img {
+    width: 350px;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to right, #FF589B 0%, #ff702d 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 30px;
+    cursor: pointer;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: orange;
+   
+}
+.cat2{
+    background-color: #ff1074;
+}
+.cat3{
+    background-color: blue;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-img {
+    background-color: rgb(235, 235, 235);
+}
+
+.card img {
+    width: 250px;
+    height: 310px;
+    margin: 45px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+.shop-info img{
+    width: 600px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.shop-icon {
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.shop-icon img{
+    margin-top: 20px;
+    width: 70px;
+    height: 70px;
+}
+
+
+footer{
+    text-align: center;
+}
